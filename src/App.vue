@@ -11,7 +11,7 @@ import adamsworld from './components/adamsworld.vue'
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <adamsworld msg="URM Stores 3.0" />
+  <adamsworld msg="URM Stores - Low-code Web 3" />
 </template>
 
 <style scoped>
